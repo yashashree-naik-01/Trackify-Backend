@@ -36,7 +36,7 @@ const createTicket = async (req, res) => {
         const ticketId = 'TRK-' + Math.floor(100000 + Math.random() * 900000);
         const otpCode = generateOTP();
 
-        const trackingUrl = `http://localhost:5173/track/${ticketId}`;
+        const trackingUrl = `${process.env.FRONTEND_URL || 'http://localhost:5173'}/track/${ticketId}`;
         const qrCodeDataUrl = await QRCode.toDataURL(trackingUrl);
 
         // Calculate initial estimation (sum of all stage durations from current status)
