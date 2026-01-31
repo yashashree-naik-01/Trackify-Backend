@@ -1,0 +1,13 @@
+[dotenv@17.2.3] injecting env (7) from .env -- tip: ??????  specify custom .env file path with { path: '/custom/path/.env' }
+Connecting to: mongodb+srv://panditprem2711_db_user:YXfoj2Popv0mgJXp@cluster0.ms3bwqa.mongodb.net/?appName=Cluster0
+Connected to DB
+
+--- Service Centers ---
+Name: Prem Repair, ID: 697d941b7a9418492d4f699b, Email: panditprem143@gmail.com, User: 697d941b7a9418492d4f6999
+Name: shyam, ID: 697d9887805234c0d3fa4a2f, Email: shruti@gmail.com, User: 697d9886805234c0d3fa4a2d
+
+--- Job Requests ---
+ID: 697d9456805234c0d3fa49d5, Ticket: TRK-645974, SC: Prem Repair, Status: accepted
+ID: 697d95d5805234c0d3fa4a16, Ticket: TRK-704773, SC: Prem Repair, Status: accepted
+
+--- Assigned Tickets ---

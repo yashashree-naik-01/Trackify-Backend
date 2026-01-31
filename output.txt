@@ -1,0 +1,13 @@
+[dotenv@17.2.3] injecting env (7) from .env -- tip: ???? encrypt with Dotenvx: https://dotenvx.com
+Connecting to: mongodb://localhost:27017/trackify
+Connected to DB
+
+--- Service Centers ---
+Name: Service 1, ID: 697d854cb9ea1f9e3a9feaf3, Email: service12@gmail.com, User: 697d854bb9ea1f9e3a9feaf1
+Name: DELL Service, ID: 697d948ad0210621108a6cf3, Email: kyn.sc@gmail.com, User: 697d948ad0210621108a6cf1
+
+--- Job Requests ---
+ID: 697d94ffd0210621108a6d11, Ticket: TRK-738796, SC: DELL Service, Status: accepted
+
+--- Assigned Tickets ---
+Ticket: TRK-738796, Assigned SC ID: 697d948ad0210621108a6cf3

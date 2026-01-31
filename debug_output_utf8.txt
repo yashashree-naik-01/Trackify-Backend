@@ -1,0 +1,31 @@
+﻿[dotenv@17.2.3] injecting env (5) from .env -- tip: ≡ƒöÉ prevent committing .env to code: https://dotenvx.com/precommit
+MongoDB Connected
+--- USERS ---
+ID: 69776b50386145bf1cd08a61, Name: Yashashree, Role: Vendor
+ID: 69776cee386145bf1cd08a88, Name: Heena, Role: Service
+ID: 69776e2b3e729ec0be197816, Name: Radha, Role: Courier
+ID: 697a1f3e6f88c469596504af, Name: Yashu, Role: Admin
+
+--- TICKETS ---
+ID: TRK-647583, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-410619, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-899916, CreatedBy: 69776b50386145bf1cd08a61, Status: Delivered
+ID: TRK-945020, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-202407, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-920349, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-409438, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-706139, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-969238, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-553930, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-346329, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-711011, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-948572, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-765844, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-831687, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-199144, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-738796, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-900281, CreatedBy: 69776b50386145bf1cd08a61, Status: Delivered
+ID: TRK-491339, CreatedBy: 69776b50386145bf1cd08a61, Status: In Repair
+ID: TRK-398436, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-700707, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
+ID: TRK-507325, CreatedBy: 69776b50386145bf1cd08a61, Status: Created
